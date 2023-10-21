@@ -15,6 +15,7 @@ This code runs the test, validation, and training data sets through the model to
 
 
 other things
+
 In the validation set there seems to be a population of pairings that to the model seem to not correlate with each other. This is most likely because the types of reactions in these pairings are so different to the reactions in the training set that to the model, they seem to be not compatible with each other. This is another problem that could be solved with more training. A similar thing could be said about the random dataset. 
 
  
